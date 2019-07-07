@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fd2333ede9b0f5945b647eb965551168
+timeCreated: 1562283302
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 20
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FFVIIVector
+  fontNames:
+  - FFVIIVector
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
